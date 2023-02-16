@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 
 <!--
 **AbaevB/AbaevB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Андрей Баев
+> Веб -разработчик, фрилансер.
+В настоящее время заканчиваю курс **Frontend-разработчик** на Skillbox.
