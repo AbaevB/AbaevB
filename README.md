@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - [Мой сайт](https://frontend-bro.com/) - Все самое полезное там!
 
-- [Linkedin](https://www.linkedin.com/in/andrewbaev1970/) - Связаться по рабочим вопросам, прредложить сотрудничество.
+- [Linkedin](https://www.linkedin.com/in/andrewbaev1970/) - Связаться по рабочим вопросам, предложить сотрудничество.
 
 - [Twitter(X)](https://twitter.com/AbaevB70) - Мысли вслух, шутки, политика, юмор, мемы, и прочая фигня.
 
