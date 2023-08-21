@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ## Ссылки
 
-- [Мой сайт](https://frontend-bro.com/)
+- [Мой сайт](https://frontend-bro.com/) - Все самое полезное там!
 
-- [Linkedin](https://www.linkedin.com/in/andrewbaev1970/)
+- [Linkedin](https://www.linkedin.com/in/andrewbaev1970/) - Связаться по рабочим вопросам, прредложить сотрудничество.
 
-- [Twitter(X)](https://twitter.com/AbaevB70)
+- [Twitter(X)](https://twitter.com/AbaevB70) - Мысли вслух, шутки, политика, юмор, мемы, и прочая фигня.
 
-- [VK](https://vk.com/andrewbaev)
+- [VK](https://vk.com/andrewbaev) - Особо не пользуюсь, но читаю группы по IT и бизнесу.
 
 Фейсбука нет - разочаровался в этой соцсети полностью.
